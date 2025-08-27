@@ -13,7 +13,7 @@ function randomChar() {
 
 function genRandomPassword() {
     let randomPassword = ""
-    for (i = 0; i < passwordLength; i++){
+    for (let i = 0; i < passwordLength; i++){
         randomPassword += randomChar()
     }
     return randomPassword
