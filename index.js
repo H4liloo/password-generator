@@ -25,5 +25,5 @@ function btnClick(){
     let randomPasswordTwo = genRandomPassword()
 
     passwordOneEl.textContent = randomPasswordOne
-    passwordTwoEl.textContent = randomPasswordOne
+    passwordTwoEl.textContent = randomPasswordTwo
 }
