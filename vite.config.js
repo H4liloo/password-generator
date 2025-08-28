@@ -6,4 +6,3 @@ export default defineConfig({
 	]
 })
 
-window.btnClick = btnClick;
