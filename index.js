@@ -30,4 +30,5 @@ function btnClick(){
 }
 
 // src/main.js
+window.btnClick = btnClick;
 
